@@ -1,0 +1,26 @@
+.node {
+    background: #1e1e2f;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+    color: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3)
+}
+
+.node-header {
+    text-align: center;
+    font-weight: bold;
+    color: #7dd3fc;
+    margin-bottom: 8px;
+}
+
+.node-body textarea {
+    width: 100;
+    background: #0f172a;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 6px;
+    resize: none;
+}
+
